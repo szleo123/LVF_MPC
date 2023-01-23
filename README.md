@@ -7,7 +7,13 @@ This project proposed a method that builds a Linear Variational State Space Filt
 Experiment Results
 ----------------------------------------------------
 
+Decoded states of pendulum with no noise:
+
 ![](r1.gif)
+
+Decoded states of pendulum with 0.4 noise added to the latent space
+
+![](r2.gif)
 
 How to run the code? 
 -----------------------------------------------------
