@@ -7,7 +7,7 @@ This project proposed a method that builds a Linear Variational State Space Filt
 Experiment Results
 ----------------------------------------------------
 
-![]r1.gif
+![](r1.gif)
 
 How to run the code? 
 -----------------------------------------------------
