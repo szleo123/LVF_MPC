@@ -5,12 +5,6 @@ How to run the code?
 4. Install cvxpy, pytope, polytope packages insider the container using pip3 
 5. Run lsvae/train_lsvae.py to start training 
 6. Go to ./variational_state_space_models/lsvae
-7. Use python3 MPC_robust.py (path to model checkpoint) to run the MPC
+7. Use python3 MPC_robust.py (path to model checkpoint) to run the MPChttps://github.com/szleo123/LVF_MPC/blob/main/README
 
 Resulting images of MPC will be saved in ./MPC folder 
-
-
-Contributions
-Jianning Cui: Learn MPC theory and code it up. Write report
-Zhangkaiwen Chu: Learn VSSF theory and train model. Write report 
-Yilin Li: Plot and make videos. Write report 
