@@ -7,7 +7,7 @@ This project proposed a method that builds a Linear Variational State Space Filt
 Experiment Results
 ----------------------------------------------------
 
-https://github.com/szleo123/LVF_MPC/blob/main/No%20nosie%20no%20limit%20MPC.mp4
+![]r1.gif
 
 How to run the code? 
 -----------------------------------------------------
