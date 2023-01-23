@@ -1,0 +1,20 @@
+program: lsvae/train_lsvae.py
+name: LSVAE Standard Sweep
+method: grid
+parameters:
+  z_samples:
+    values:
+     - 100
+     - 2
+     - 4
+  sigma:
+    values: 
+     - 1
+     - 2
+     - 5
+  iterations:
+    value: 50000
+  secondary_samples:
+    value: 1
+  fit_dynamics:
+    value: "False"
